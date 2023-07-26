@@ -4,7 +4,7 @@ This project conducts an exploratory data analysis on the US Accidents dataset f
 
 ## Data
 
-The dataset is originally from the US Department of Transportation. It was compiled and uploaded to Kaggle by user mohamedadaly. 
+The dataset is originally from the US Department of Transportation. It was compiled and uploaded to Kaggle.
 
 The data dictionary provides details on each feature in the dataset. Key variables include:
 
@@ -14,7 +14,7 @@ The data dictionary provides details on each feature in the dataset. Key variabl
 - Accident severity and types
 - Number of vehicles involved
 
-The dataset can be found here: https://www.kaggle.com/datasets/mohamedadaly/us-accidents
+The dataset can be found here: https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents
 
 ## Methods
 
@@ -29,7 +29,7 @@ The project focuses on extracting insights from the data rather than developing 
 
 ## Requirements
 
-The project requires Python and common data analysis libraries like Pandas, Matplotlib, Seaborn, and Scikit-Learn.
+The project requires Python and common data analysis libraries like Pandas, Matplotlib, Seaborn, Folium and Scikit-Learn.
 
 ## Usage
 
@@ -51,4 +51,4 @@ Some example insights from the analysis:
 
 ## References
 
-The original dataset can be found here: https://www.kaggle.com/datasets/mohamedadaly/us-accidents
+The original dataset can be found here: https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents
