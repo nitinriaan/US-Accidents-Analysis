@@ -1,9 +1,6 @@
-# US-Accidents-Analysis
-Here is a draft GitHub README for a project titled "US Accidents Analysis" involving exploratory data analysis on a dataset from Kaggle:
-
 # US Accidents Analysis
 
-This project conducts an exploratory data analysis on the US Accidents dataset from Kaggle. The dataset contains accident records in the US from February 2016 to December 2021.
+This project conducts an exploratory data analysis on the US Accidents dataset from Kaggle. The dataset contains accident records in the US from February 2016 to March 2023.
 
 ## Data
 
