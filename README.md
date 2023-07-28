@@ -12,7 +12,7 @@ The data dictionary provides details on each feature in the dataset. Key variabl
 - Environment (weather, visibility, road conditions) 
 - Time (timestamp, day of week, holiday)
 - Accident severity and types
-- Number of vehicles involved
+- and much more...
 
 The dataset can be found here: https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents
 
@@ -23,7 +23,6 @@ The analysis covers:
 - Exploratory data analysis on the distributions of key variables
 - Visualizations of major accident factors and trends over time/location
 - Determining correlations between variables and accident severity
-- Clustering analysis on the accident types
 
 The project focuses on extracting insights from the data rather than developing a predictive model.
 
@@ -44,11 +43,17 @@ The Jupyter Notebook `us_accidents_analysis.ipynb` contains the full analysis. T
 
 Some example insights from the analysis:
 
-- Accident severity has increased over the 2016-2021 period
-- The most dangerous weather conditions are heavy rain/storm and snow
-- Interstate highways have more severe accidents than other road types
-- SUVs and pickup trucks are involved in more severe accidents than other vehicle types
+1. Are there more accidents in warmer or colder areas? - Mild and Hot temperature region have higher numbers. (Hot weather cause of Vehicles overheating, Drivers feeling fatigued or Tires blowing out. etc;)
+2. Which 3 states have the highest number of accidents? - California, Florida and Texas. (Dense population might be the reason).
+3. Does New York show up in the data? - No, it does not contains accident data of New York. 
+4. What is the trend of accidents year over year in terms of degree of severity? - The severity in accidents have decreased. 
+5. What time of the day are accidents most frequent in? - 7am-8am in the morning and 4pm-5pm at the afternoon. (people leave to and come back from work at these times respectively)
+6. Which days of the week have the most accidents? - Weekdays have more accidents with Friday being the highest. (Commute is higher during weekdays due to work than rest days.
+7. Which months have the most accidents? - December and January stack the highest number. (Winter season, snowfall might be the reason here)
+8. What is the trend of accidents year over year (decreasing/increasing?) - Numbers have been increasing exponentially.
+9. When does the accidents occur more often day or night? - Day (more than twice the number of night time)
 
+   
 ## References
 
 The original dataset can be found here: https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents
