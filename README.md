@@ -2,6 +2,8 @@
 
 This project conducts an exploratory data analysis on the US Accidents dataset from Kaggle. The dataset contains accident records in the US from February 2016 to March 2023.
 
+![Screenshot (73)](https://github.com/nitinriaan/US-Accidents-Analysis/assets/83333586/8ebb73dd-21e0-47e9-ace6-083ebd7e19fc)
+
 ## Data
 
 The dataset is originally from the US Department of Transportation. It was compiled and uploaded to Kaggle.
